@@ -10,5 +10,4 @@ class Employee
   def pay(amount)
     @earnings += amount
   end
-
 end
